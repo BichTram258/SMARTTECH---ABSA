@@ -1,1 +1,1 @@
-# SMARTTECH-ABSA
+# SMARTTECH (aspect-based sentiment analysis – ABSA)
